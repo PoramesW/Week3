@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกรายรับ-รายจ่าย (Expense Tracker)",
+  "description": "แอปพลิเคชันบันทึกรายรับ-รายจ่ายพร้อมระบบหมวดหมู่ ตัวกรอง ค้นหาแบบเรียลไทม์ และสรุปรายงานการเงิน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
